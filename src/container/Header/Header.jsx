@@ -13,7 +13,7 @@ const Header = () => (
         quidem sequi. Tenetur similique vel aut minima molestias tempora illum?
         Ipsam unde voluptas, nostrum labore eveniet natus eius ab!
       </p>
-      <button className="custom__buttom">Explore Menu</button>
+      <button className="custom__button">Explore Menu</button>
     </div>
     <div className="app__wrapper_img">
       <img src={images.welcome} alt="welcome" />
